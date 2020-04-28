@@ -10,5 +10,6 @@
 
    public static class Bmi
    {
+        // Comment meant for Pull Request walkthrough
    }
 }
